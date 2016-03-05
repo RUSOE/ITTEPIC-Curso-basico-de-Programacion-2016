@@ -35,7 +35,7 @@ void main(){
       		case 7:
       			cout<<"domingo"<<endl;
       			break;
-      		case default:
+		default:
       			cout<<"Dia invalido"<<endl;
       			break
       }
