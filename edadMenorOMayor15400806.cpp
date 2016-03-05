@@ -1,5 +1,6 @@
 /*
-Alfredo Aguiar arce
+Hecho por Alfredo Aguiar arce
+Intituto Tecnologico de Tepic
 Ejercicio clase menor o mayor edad
 */
 #include <iostream.h>
@@ -8,12 +9,17 @@ Ejercicio clase menor o mayor edad
 void main()
 {
 	int edad;
-   cout<<"Ingresa tu edad"<<endl;
-   cin>>edad;
+   	cout<<"Ingresa tu edad"<<endl;
+   	cin>>edad;
 
-   	if(edad>=18){cout<<"Mayor de edad."<<endl;}o
-      else{cout<<"menor de edad."<<endl;}
+   	if(edad>=18)
+   	{
+   		cout<<"Mayor de edad."<<endl;
+   		
+   	}else
+   	{
+   		cout<<"menor de edad."<<endl;
+   	}
 
 	getch();
-
-}//final de void main()
+}
