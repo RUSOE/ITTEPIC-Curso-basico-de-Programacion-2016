@@ -10,7 +10,6 @@ Intituto Tecnologico de Tepic
 */
 #include <conio.h>
 #include <iostream.h>
-#include <utility>
 
 void main(){
   	//Declarar la funcion que realiza las operaciones
